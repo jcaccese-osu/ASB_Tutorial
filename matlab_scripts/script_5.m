@@ -17,6 +17,6 @@ ylim([-8,10])
 % date_text = date;
 % year = date_text(end-3:end);
 %plot text
-% text(2.5,-3.5, 'Reviewer 2 is the best', 'FontSize', 24, 'FontWeight', 'bold', 'Color', 'g') % per reviewer comments
+% text(2.5,-3.5, 'Reviewer 2 is the best', 'FontSize', 24, 'FontWeight', 'bold', 'Color', 'r') % per reviewer comments
 % xlim([-2,12])
 % ylim([-8,10])
