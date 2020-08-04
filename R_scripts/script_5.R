@@ -20,7 +20,7 @@ drawSubtitle <- function(canvas) {
   canvas +
     geom_text(label=msg,
               aes(x=3, y=-3.5),
-              color='black',
+              color='red',
               size=12)
 }
 
